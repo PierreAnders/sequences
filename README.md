@@ -1,7 +1,7 @@
 <h4>Connect to Spotify<h4>
 <img width="300" alt="Connect to Spotify" src="https://user-images.githubusercontent.com/104831958/210985771-4f261a6f-d24e-4f2b-b544-d3ff596c6d62.png">
 
-</br></br>
+</br></br> 
 
 <h4>Create a Music Session with Sequences<h4>
 <img width="300" alt="Create a Music Session with Sequences" src="https://user-images.githubusercontent.com/104831958/210985988-ea57cb31-3117-42c7-aae3-cbb3dffe01c6.png">
